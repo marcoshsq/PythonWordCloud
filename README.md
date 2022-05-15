@@ -29,7 +29,7 @@
 
 A word cloud is a visualization technique for text data where the most frequent word is shown in the biggest font size. They aren't the most scientific type of data visualization. However, they're a very information-dense representation of the frequency of all words in a given text. And sometimes Word clouds can be more effective than just using bar charts displaying the counts of words for large amounts of text, as the chart would be difficult to parse if there are too many bars.
 
-The final project of the course 01 gave us ready-made code that just needed to be refactored. But I decided to remake a word cloud in a more personalized way.
+The final project of the course 01 gave us ready-made code that just needed to be refactored. But I decided to make my own word cloud in a more personal way.
 
 ## [Project 02]().
 
