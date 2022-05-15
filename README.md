@@ -43,4 +43,4 @@ The final project of the course 01 gave us ready-made code that just needed to b
 
 ##
 
-(ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ (◕‿◕✿) ヽ(^◇^*)/
+(ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ ヽ(^◇^*)/
