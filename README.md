@@ -41,6 +41,4 @@ The final project of the course 01 gave us ready-made code that just needed to b
 
 ## [Project 06]().
 
-##
-
-(ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ ヽ(^◇^*)/
+---
