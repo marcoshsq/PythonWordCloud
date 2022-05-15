@@ -25,7 +25,7 @@
 
 ## Projects:
 
-## [Word Cloud]().
+## [Word Cloud](https://github.com/marcoshsq/Google_IT_Automation_with_Python_Projects/tree/main/01.%20Word%20Cloud).
 
 A word cloud is a visualization technique for text data where the most frequent word is shown in the biggest font size. They aren't the most scientific type of data visualization. However, they're a very information-dense representation of the frequency of all words in a given text. And sometimes Word clouds can be more effective than just using bar charts displaying the counts of words for large amounts of text, as the chart would be difficult to parse if there are too many bars.
 
