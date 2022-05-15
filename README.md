@@ -8,3 +8,44 @@
 </div>
 <br>
  
+## This repository contains the projects developed during the Google IT Automation with Python Professional Certificate.
+
+### About the Specialization:
+
+#### There are 06 Courses in this [Professional Certificate]():
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+---
+
+## Projects:
+
+## [Word Cloud]().
+
+
+## [Project 02]().
+
+
+
+## [Project 03]().
+
+
+## [Project 04]().
+
+
+
+## [Project 05]().
+
+
+
+## [Project 06]().
+
+
+
+##
+
+(ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ (◕‿◕✿) ヽ(^◇^*)/
