@@ -33,12 +33,20 @@ The final project of the course 01 gave us ready-made code that just needed to b
 
 ## [Project 02]().
 
+Work in Progress...
+
 ## [Project 03]().
+
+Work in Progress...
 
 ## [Project 04]().
 
 ## [Project 05]().
 
+Work in Progress...
+
 ## [Project 06]().
+
+Work in Progress...
 
 ---
