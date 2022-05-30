@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Google_IT_Automation_with_Python_Projects">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" alt="Smiley face" height="150" width="150">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Smiley face" height="150" width="150">
+    <img src="https://cdn-icons-png.flaticon.com/512/2103/2103751.png" alt="Smiley face" height="150" width="150">
   </a>
 </p>
   <h1 align="center">Google IT Automation w/ Python - Projects</h1>
