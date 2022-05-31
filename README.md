@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Google_IT_Automation_with_Python_Projects">
-    <img src="https://cdn-icons-png.flaticon.com/512/2103/2103751.png" alt="Smiley face" height="150" width="150">
+    <img src="https://github.com/marcoshsq/Google-ITAutomation/blob/main/Automation.png" alt="Smiley face" height="150" width="150">
   </a>
 </p>
   <h1 align="center">Google IT Automation w/ Python - Projects</h1>
