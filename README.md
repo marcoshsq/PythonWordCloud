@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Google_IT_Automation_with_Python_Projects">
-    <img src="https://github.com/marcoshsq/Google-ITAutomation/blob/main/Automation.png" alt="Smiley face" height="150" width="150">
+    <img src="https://github.com/marcoshsq/Google-ITAutomation/blob/main/Automation.png" alt="Smiley face" height="120" width="120">
   </a>
 </p>
-  <h1 align="center">Google IT Automation w/ Python - Projects</h1>
+  <h2 align="center">Google IT Automation w/ Python - Projects</h2>
 </div>
 <br>
  
-## This repository contains the projects developed during the Google IT Automation with Python Professional Certificate.
+### This repository contains the projects developed during the Google IT Automation with Python Professional Certificate.
 
 ### About the Specialization:
 
