@@ -5,9 +5,8 @@
 </p>
   <h2 align="center">Google IT Automation w/ Python - Projects</h2>
 </div>
-<br>
  
-### This repository contains the projects developed during the Google IT Automation with Python Professional Certificate.
+This repository contains the projects developed during the Google IT Automation with Python Professional Certificate.
 
 ### About the Specialization:
 
